@@ -45,7 +45,7 @@ const app = {
     {
       name: "Chúng Ta Của Hiện Tại",
       singer: "Sơn Tùng",
-      path: "./Music/ChungtaCuaHienTai.mp3",
+      path: "./Music/ChungTaCuaHienTai.mp3",
       image: "https://i.scdn.co/image/ab67616d00001e025888c34015bebbf123957f6d",
     },
 
